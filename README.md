@@ -11,3 +11,6 @@ GeoJSON
 ### Data Sources used :
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json
+
+<img width="1261" alt="screen shot 2018-06-24 at 5 10 36 pm" src="https://user-images.githubusercontent.com/34551186/41823662-e30261bc-77d1-11e8-8a42-49cbf0c5b0f2.png">
+<img width="1260" alt="screen shot 2018-06-24 at 5 11 53 pm" src="https://user-images.githubusercontent.com/34551186/41823666-e5370afa-77d1-11e8-83bd-e8d6f4286aab.png">
